@@ -1,0 +1,32 @@
+# Node modules
+node_modules/
+
+# Environment files (VERY IMPORTANT)
+.env
+.env.local
+.env.development
+.env.production
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build folders
+dist/
+build/
+
+# IDE files
+.vscode/
+.idea/
+
+# Dependency directories
+package-lock.json
+yarn.lock
+
+# Optional: coverage
+coverage/
